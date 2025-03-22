@@ -11,4 +11,3 @@ The **Online Bookstore** project is a simulation of a real-world bookstore, allo
 ✔ **Inventory Management** – Keeps track of stock levels, preventing out-of-stock purchases.  
 ✔ **Order Summary** – Generates a formatted receipt with book details and total price.  
 
-## 🏗️ Project Structure  
